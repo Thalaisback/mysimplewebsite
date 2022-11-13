@@ -4,7 +4,64 @@
 
 
 
-this is simple website for single web page.
+this is simple website for single web page.this is the latest update which i am doing rightnow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
